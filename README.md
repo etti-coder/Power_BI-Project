@@ -12,51 +12,55 @@
  2018-2021
  
 ## Metrics 
-1.Average waiting list
+- Average waiting list
 
-2.Median waiting list
+- Median waiting list
 
-3.Current total waitng list
+- Current total waitng list
 
 ## Visuals required 
-1. Summary page
-2. Detailed page for granular analysis
+- Summary page
+- 
+- Detailed page for granular analysis
 
 
 # Requirement Gathering
 
 ### Identify stakeholder
+- Make point of contact e.g Domain expert or SMEs etc
 
-#### Make point of contact e.g Domain expert or SMEs etc
+- understand business objectives
 
-### understand business objectives
-
-##### Meetings and communiaction
+- Meetings and communiaction
 
 
 ### High levle data study
 
-#### - Data source
-#### - column description
-#### - Data type
-#### - Volume of data and Quality
+- Data source
+- column description
+- Data type
+- Volume of data and Quality
 
 ### Define scope
-
-#### - Document KPIs
-#### - Timelines
-#### - Expectations
+- Document KPIs
+- Timelines
+- Expectations
 
 # Data Collection
  (Hospital.csv.xlsx)
 
 # Transformation and Modelling
 
-1.combined and transform 4 files
+- combined and transform 4 files
 
-2.Append tables
+- Append tables
 
 # Data Visualisation Blueprint
+
+- Design mock-up
+- Summary page
+- Filters
+- Charts/visuals
 
 # Dashboard Layout and Design
 
