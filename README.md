@@ -2,6 +2,7 @@
 
 ## Table of Content
 
+
 - [Project Goals](#project-goals)
 - [Project Scope](#project-scope)
 - [Metrics](#metrics)
@@ -13,6 +14,8 @@
 - [Data Collection](#data-collection)
 - [Transformation](transformation)
 - [Data Visualisation Blueprint](#data-visualisation-blueprint)
+
+## Project Goals
 
 1.Track current status of patient waiting list
 
