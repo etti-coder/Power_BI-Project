@@ -1,6 +1,18 @@
-# Power_BI-Project
+# Patient Waiting list Project
 
-# Project Overview and Goals
+## Table of Content
+
+- [Project Goals](#project-goals)
+- [Project Scope](#project-scope)
+- [Metrics](#metrics)
+- [Visuals Required](#visuals-required)
+- [Requirement Gathering](#requirement-gathering)
+- [ Identify stakeholder](#identify-stakeholder)
+- [EDA](#eda)
+- [Define scope](#define-scope)
+- [Data Collection](#data-collection)
+- [Transformation](transformation)
+- [Data Visualisation Blueprint](#data-visualisation-blueprint)
 
 1.Track current status of patient waiting list
 
@@ -8,7 +20,7 @@
 
 3.Age profile analysis and speciality level
 
-## Scope of Project
+## Project Scope
  2018-2021
  
 ## Metrics 
@@ -20,11 +32,11 @@
 
 ## Visuals required 
 - Summary page
-- 
+ 
 - Detailed page for granular analysis
 
 
-# Requirement Gathering
+## Requirement Gathering
 
 ### Identify stakeholder
 - Make point of contact e.g Domain expert or SMEs etc
@@ -33,8 +45,7 @@
 
 - Meetings and communiaction
 
-
-### High levle data study
+## EDA
 
 - Data source
 - column description
@@ -49,7 +60,7 @@
 # Data Collection
  (Hospital.csv.xlsx)
 
-# Transformation and Modelling
+# Transformation
 
 - combined and transform 4 files
 
@@ -61,6 +72,7 @@
 - Summary page
 - Filters
 - Charts/visuals
+- Detailed page
 
 # Dashboard Layout and Design
 
